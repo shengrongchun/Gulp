@@ -1,0 +1,11 @@
+{
+  "name": "guip",
+  "version": "1.0.0",
+  "description": "在对Gulp有了一个初步的了解之后，我们开始构建一个较为完整的Gulp开发环境。",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
